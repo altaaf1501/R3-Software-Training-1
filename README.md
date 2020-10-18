@@ -16,7 +16,7 @@ I wired and programmed 2 motors to an Arduino using the L293D motor controller a
 
 ## Link To Tinkercad Project And Github Repository: ##
 
->[Tinkercad R3 Software 1 Project Link](https://www.tinkercad.com/things/gE5d5WRU3W2-r3-practise-1 "Altaaf Jahankeer r3 software project 1 Link")
+>[Tinkercad R3 Software 1 Project Link](https://www.tinkercad.com/things/gE5d5WRU3W2 "Altaaf Jahankeer r3 software project 1 Link")
 
 <br>
 <br>
